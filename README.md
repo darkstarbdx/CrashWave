@@ -144,6 +144,9 @@ This tool was developed with the assistance of **AI (Artificial Intelligence)**.
 
 ## **Support** 💬
 If you have any questions or need help, feel free to open an issue or contact the maintainers.
+✨ Want to get in touch?
+🌟 Join our vibrant Telegram community!
+👉 Click here to connect: [Telegram Group](https://t.me/+mzZ9IrWgXe9jNWNl)
 
 ---
 
